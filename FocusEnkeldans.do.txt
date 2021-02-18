@@ -13,12 +13,12 @@
 ## doconce split_html lnotes20212_vagrant.html
 ## doconce split_html lnotes20212 --pagination --nav_button=top+bottom
 ## doconce split_html lnotes20212 --nav_button=top+bottom  --html_code_style=inherit
-TITLE: Skitrening Skøyting 11/12
-AUTHOR: JK
+TITLE: Skitrening Skøyting Focus Enkeldans
+AUTHOR: Strindheim trenere G/J 11/12
 DATE: today
 TOC: off
 
-======= Synopsis =======
+======= Sammedrag =======
 <linebreak>
 __Fokus på Teknikk (Enkeldans), Fart (Kurveakselerasjon), Felleskap, Skiglede:__
 * Oppvarming 15'
@@ -72,6 +72,7 @@ MOVIE: [img/ED2.mp4, width=400 frac=0.5]
 * Fart med to staver
 
 MOVIE: [img/ED3.mp4, width=400 frac=0.5]
+
 
 === Kurve med akselerasjon ===
 Ide:
