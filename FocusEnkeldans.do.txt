@@ -26,7 +26,7 @@ __Fokus på Teknikk (Enkeldans), Fart (Kurveakselerasjon), Felleskap, Skiglede:_
 * Hoveddel Teknikk 30'
 * Hoveddel Fart 20'
 * Stafett 15'
-* Strindheim røp
+* Strindheimrop
 
 <linebreak>
 --------------
@@ -39,16 +39,16 @@ FIGURE: [img/Gran1, width=400 frac=0.5]
 * Kort trenersamtale/koordinasjon under oppmøte
 * Rolig oppvarming via brua mot ''Balanseøving´
 * En trener i front/midt/bak
-* Eventuelt snarvei for de som går veldig sakte.
+* Eventuelt snarvei for de bakerste.
 
 ===== Balanse =====
 Ide:
-* Nedbakke uten staver og på en ski (bytt side hver gang)
+* Nedoverbakke uten staver og på en ski (bytt side hver gang)
 * Motbakke med tydelig armsving
 Gjennomføring:
-* Introduser øving, forklar grunnprinsipper og sammenheng
+* Introduser øvelsen, forklar grunnprinsipper og sammenheng
 * Barn beveger seg ned og opp, 30 m lengde, 5 m avstand
-* Nedover mot fartsretning men helt av side (pass på andre skiløyper)
+* Nedover mot fartsretning men hold riktig side (pass på andre skiløyper)
 * Ros, og tilbakemelding
 * Kort samling og refleksjon (hvilke side er best i balanse)
 
@@ -56,10 +56,10 @@ Gjennomføring:
 === Enkeldans ===
 Ide:
 * Flere øvelser (frem og tilbake) som bygger opp på hverandre
-* Focus på armsving og balanse (stå langt og høyt)
+* Fokus på armsving og balanse (stå langt og høyt)
 * Begge sider, lav frekvens først, varier frekvens etterpå
 Gjennomføring:
-* Introduser teknikk, forklar bevegelses ide
+* Introduser teknikk, forklar prinsippene
 * Øvelse i stand (se video)
 
 MOVIE: [img/ED1.mp4, width=400 frac=0.5]
@@ -68,7 +68,7 @@ MOVIE: [img/ED1.mp4, width=400 frac=0.5]
 
 MOVIE: [img/ED2.mp4, width=400 frac=0.5]
 
-* Fart med en stave på ''høyeside´
+* Fart med en stave på ''høyreside´
 * Fart med to staver
 
 MOVIE: [img/ED3.mp4, width=400 frac=0.5]
@@ -76,9 +76,9 @@ MOVIE: [img/ED3.mp4, width=400 frac=0.5]
 === Kurve med akselerasjon ===
 Ide:
 * Gjennom kurver uten tap av fart
-* Stå jevnt på den indre ski  
+* Stå jevnt på innerskien  
 Gjennomføring:
-* Introduser teknikk, forklar bevegelses ide
+* Introduser teknikk, forklar prinsippene
 * Fart uten staver 
 * Fart med en stave på ''innside´
 * Fart med to staver
@@ -91,8 +91,8 @@ Ide:
 * Fokus på Enkeldans, Kurve, skiglede(!)
 * To og to (pass på likt nivå)
 Gjennomføring:
-* Introduser teknikk, forklar bevegelses ide
-* Definer Runde: Start - Mål (sirka 200m gjerne med nedbakke for stor fart og skiglede - rolig tilbake til start)
+* Introduser teknikk, forklar prinsippene
+* Definer Runde: Start - Mål (sirka 200m gjerne med nedoverbakke for stor fart og skiglede - rolig tilbake til start)
 * To og to med tydelig startkommando (skap litt konkurranseatmosfære)
 * 2-3 ganger
 
