@@ -100,3 +100,27 @@ figure img/ED2.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
 figure img/ED2.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
 figure img/ED2.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
 output in FocusEnkeldans.html
+Translating doconce text in FocusEnkeldans.do.txt to html
+found img/Stafett.mov
+figure img/Stafett.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/Stafett.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/Stafett.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+found img/SVING.mov
+figure img/SVING.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/SVING.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/SVING.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+found img/ED2.mov
+figure img/ED2.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/ED2.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/ED2.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+found img/ED3.mov
+figure img/ED3.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/ED3.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure img/ED3.mov must have extension(s) .html, .png, .gif, .jpg, .jpeg, .svg
+figure file img/Gran1:
+    can use img/Gran1.png for format html
+output in FocusEnkeldans.html
+Translating doconce text in FocusEnkeldans.do.txt to html
+figure file img/Gran1:
+    can use img/Gran1.png for format html
+output in FocusEnkeldans.html

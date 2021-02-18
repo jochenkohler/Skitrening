@@ -62,16 +62,16 @@ Gjennomføring:
 * Introduser teknikk, forklar bevegelses ide
 * Øvelse i stand (se video)
 
-FIGURE: [img/ED1, width=400 frac=0.5]
+MOVIE: [img/ED1.mp4, width=400 frac=0.5]
 
 * Fart uten staver
 
-FIGURE: [img/ED2, width=400 frac=0.5]
+MOVIE: [img/ED2.mp4, width=400 frac=0.5]
 
 * Fart med en stave på ''høyeside´
 * Fart med to staver
 
-FIGURE: [img/ED3, width=400 frac=0.5]
+MOVIE: [img/ED3.mp4, width=400 frac=0.5]
 
 === Kurve med akselerasjon ===
 Ide:
@@ -83,7 +83,7 @@ Gjennomføring:
 * Fart med en stave på ''innside´
 * Fart med to staver
 
-FIGURE: [img/SVING, width=400 frac=0.5]
+MOVIE: [img/SVING.mp4, width=400 frac=0.5]
 
 ===== Fart =====
 Ide:
@@ -100,4 +100,4 @@ Gjennomføring:
 
 * Som vanlig eller litt nytt (med balanse element, se video)
 
-FIGURE: [img/Stafett, width=400 frac=0.5]
+MOVIE: [img/Stafett.mp4, width=400 frac=0.5]
