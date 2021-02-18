@@ -1,0 +1,103 @@
+## doconce format html lnotesNEW.do.txt --html_style=bootswatch_flatly --html_admon_style=bootstrap_panel --cite_doconce
+## doconce format html FocusEnkeldans.do.txt --html_style=bootswatch_flatly --pygments_html_style=default --html_admon=bootstrap_panel -html_pre_style=inherit
+## doconce split_html lnotes20212 --nav_buttontop+bottom --pagination
+## doconce format pdflatex lnotes20211.do.txt --latex_code_style=vrb --latex_font=palatino --latex_papersize=a4 --latex_title_layout=titlepage --latex_style=std
+## pdflatex lnotes20211.tex
+# doconce format pdflatex lnotesNEW.do.txt --no_abort
+## doconce csv2table T1.csv > T1_table.do.txt
+## doconce csv2table T2.csv > T2_table.do.txt
+## doconce replace '[Figures/' '[../Figures/' lnotesL3.do.txt
+## doconce replace '[Figures/' '[../Figures/' lnotesL7.do.txt
+
+## doconce format html lnotes20212 --html_style=vagrant --html_output=lnotes20212_vagrant --pygments_html_style=default
+## doconce split_html lnotes20212_vagrant.html
+## doconce split_html lnotes20212 --pagination --nav_button=top+bottom
+## doconce split_html lnotes20212 --nav_button=top+bottom  --html_code_style=inherit
+TITLE: Skitrening Skøyting 11/12
+AUTHOR: JK
+DATE: today
+TOC: off
+
+======= Synopsis =======
+<linebreak>
+__Fokus på Teknikk (Enkeldans), Fart (Kurveakselerasjon), Felleskap, Skiglede:__
+* Oppvarming 15'
+* Balanse 10'
+* Hoveddel Teknikk 30'
+* Hoveddel Fart 20'
+* Stafett 15'
+* Strindheim røp
+
+<linebreak>
+--------------
+
+========= Oversikt Løype =========
+FIGURE: [img/Gran1, width=400 frac=0.5]
+
+======= Opplegg =======
+===== Oppmøte/Oppvarming =====
+* Kort trenersamtale/koordinasjon under oppmøte
+* Rolig oppvarming via brua mot ''Balanseøving´
+* En trener i front/midt/bak
+* Eventuelt snarvei for de som går veldig sakte.
+
+===== Balanse =====
+Ide:
+* Nedbakke uten staver og på en ski (bytt side hver gang)
+* Motbakke med tydelig armsving
+Gjennomføring:
+* Introduser øving, forklar grunnprinsipper og sammenheng
+* Barn beveger seg ned og opp, 30 m lengde, 5 m avstand
+* Nedover mot fartsretning men helt av side (pass på andre skiløyper)
+* Ros, og tilbakemelding
+* Kort samling og refleksjon (hvilke side er best i balanse)
+
+===== Teknikk =====
+=== Enkeldans ===
+Ide:
+* Flere øvelser (frem og tilbake) som bygger opp på hverandre
+* Focus på armsving og balanse (stå langt og høyt)
+* Begge sider, lav frekvens først, varier frekvens etterpå
+Gjennomføring:
+* Introduser teknikk, forklar bevegelses ide
+* Øvelse i stand (se video)
+
+FIGURE: [img/ED1, width=400 frac=0.5]
+
+* Fart uten staver
+
+FIGURE: [img/ED2, width=400 frac=0.5]
+
+* Fart med en stave på ''høyeside´
+* Fart med to staver
+
+FIGURE: [img/ED3, width=400 frac=0.5]
+
+=== Kurve med akselerasjon ===
+Ide:
+* Gjennom kurver uten tap av fart
+* Stå jevnt på den indre ski  
+Gjennomføring:
+* Introduser teknikk, forklar bevegelses ide
+* Fart uten staver 
+* Fart med en stave på ''innside´
+* Fart med to staver
+
+FIGURE: [img/SVING, width=400 frac=0.5]
+
+===== Fart =====
+Ide:
+* Teknikk i stor hastighet
+* Fokus på Enkeldans, Kurve, skiglede(!)
+* To og to (pass på likt nivå)
+Gjennomføring:
+* Introduser teknikk, forklar bevegelses ide
+* Definer Runde: Start - Mål (sirka 200m gjerne med nedbakke for stor fart og skiglede - rolig tilbake til start)
+* To og to med tydelig startkommando (skap litt konkurranseatmosfære)
+* 2-3 ganger
+
+===== Stafett =====
+
+* Som vanlig eller litt nytt (med balanse element, se video)
+
+FIGURE: [img/Stafett, width=400 frac=0.5]
