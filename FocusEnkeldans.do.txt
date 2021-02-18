@@ -13,12 +13,14 @@
 ## doconce split_html lnotes20212_vagrant.html
 ## doconce split_html lnotes20212 --pagination --nav_button=top+bottom
 ## doconce split_html lnotes20212 --nav_button=top+bottom  --html_code_style=inherit
-TITLE: Skitrening Skøyting Focus Enkeldans
-AUTHOR: Strindheim trenere G/J 11/12
+TITLE: Skitrening Skøyting
+AUTHOR: Strindheim IL Ski G/J 11/12år
 DATE: today
 TOC: off
 
 ======= Sammedrag =======
+* Oppmøte: kl. 18.30 Granåsen Skistadion
+* Avslutning: kl. 20.00
 <linebreak>
 __Fokus på Teknikk (Enkeldans), Fart (Kurveakselerasjon), Felleskap, Skiglede:__
 * Oppvarming 15'
@@ -64,12 +66,12 @@ Gjennomføring:
 
 MOVIE: [img/ED1.mp4, width=400 frac=0.5]
 
-* Fart uten staver
+* En gang uten staver
 
 MOVIE: [img/ED2.mp4, width=400 frac=0.5]
 
-* Fart med en stave på ''høyreside´
-* Fart med to staver
+* En gang med en stave på ''høyreside´
+* En gang med to staver
 
 MOVIE: [img/ED3.mp4, width=400 frac=0.5]
 
@@ -80,9 +82,9 @@ Ide:
 * Stå jevnt på innerskien  
 Gjennomføring:
 * Introduser teknikk, forklar prinsippene
-* Fart uten staver 
-* Fart med en stave på ''innside´
-* Fart med to staver
+* En gang uten staver 
+* En gang med en stave på ''innside´
+* En gang med to staver
 
 MOVIE: [img/SVING.mp4, width=400 frac=0.5]
 
