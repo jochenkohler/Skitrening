@@ -15,7 +15,7 @@
 ## doconce split_html lnotes20212 --nav_button=top+bottom  --html_code_style=inherit
 TITLE: Skitrening Skøyting (Dobbeldans)
 AUTHOR: Strindheim IL Ski G/J 11/12år
-DATE: today
+DATE: 2.3.2021
 TOC: off
 
 ======= Sammedrag =======
