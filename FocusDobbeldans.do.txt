@@ -32,23 +32,26 @@ __Fokus på Teknikk (Dobbeldans), Lek (Stafett), Felleskap, Skiglede:__
 <linebreak>
 --------------
 
-========= Oversikt Løype =========
+======= Oversikt Løype =======
+(Eventuellt tilpasses etter dagens føre)
 FIGURE: [img/Gran2, width=400 frac=0.5]
 
 ======= Opplegg =======
 ===== Oppmøte/Oppvarming =====
-* Kort trenersamtale/koordinasjon under oppmøte
-* En trener i front/midt/bak
+* Kort trenersamtale/koordinasjon under oppmøte.
+* En trener i front/midt/bak.
 * Eventuelt snarvei for de bakerste.
 
 
 ===== Teknikk =====
+=== Balanse ===
+Flere balanseøvelser på veien til Dobbeldansøkt.
 === Dobbeldans ===
 Ide:
-* Flere øvelser (frem og tilbake) som bygger opp på hverandre
-* Fokus på armsving og balanse (stå langt og høyt)
+* Flere øvelser (frem og tilbake) som bygger opp på hverandre.
+* Fokus på armsving og balanse (stå langt og høyt).
 Gjennomføring:
-* Sitonen med og uten staver, begge sider
+* Skøyting på en Ski (Siitonen) med og uten staver, begge sider.
 
 MOVIE: [img/DDSitonen.mp4, width=400 frac=0.5]
 
@@ -61,7 +64,7 @@ MOVIE: [img/DDSvom.mp4, width=400 frac=0.5]
 
 MOVIE: [img/DDuSki.mp4, width=400 frac=0.5]
 
-* Overgang fra Staking -- Sitonen -- Dobbeldans (se video)
+* Overgang fra Staking -- Skøyting på en Ski -- Dobbeldans (se video)
 
 MOVIE: [img/DDovergang.mp4, width=400 frac=0.5]
 
