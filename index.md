@@ -10,7 +10,7 @@ title: INDEX
 
 - [Fokus Enkeldans](FocusEnkeldans)
 - [Fokus Dobbeldans](FocusDobbeldans)
-- [Focus Paddling](FocusPaddling)
+- [Focus Padling](FocusPaddling)
 
 
 # Klassik økter
