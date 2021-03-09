@@ -22,12 +22,12 @@ TOC: off
 * Oppmøte: kl. 18.30 Granåsen Skistadion
 * Avslutning: kl. 20.00
 <linebreak>
-__Fokus på Teknikk (Paddling, Balanse), Felleskap, Skiglede:__
+__Fokus på Teknikk (Padling, Balanse), Felleskap, Skiglede:__
 * Oppvarming 15'
 * Balanse 10'
 * Hoveddel Teknikk 50'
 * Gruppe: Balanse
-* Gruppe: Paddling
+* Gruppe: Padling
 * Stafett 15'
 * Strindheimrop
 
@@ -80,8 +80,8 @@ Teknikk trening i to grupper. Bytt grupper etter 25'.
   * bagge kjører på en ski mens en kaster
   * sett opp portaler av staver, kjør under + kaste ball
 
-===== Gruppe Paddling =====
-__Mål:__ Alle kan paddling men ofte har vi for mye bevegelser i overkroppen og ikke nok trykk i beina. Vi skal jobbe med saken, men først et riktig og et feil eksempel:
+===== Gruppe Padling =====
+__Mål:__ Alle kan padling, men ofte har vi for mye bevegelser i overkroppen og ikke nok trykk i beina. Vi skal jobbe med saken, men først et riktig og et feil eksempel:
 === Riktig ===
 
 MOVIE: [img/Paddlingcorr.mp4, width=400 frac=0.5]
@@ -92,7 +92,7 @@ MOVIE: [img/PaddlingFeil.mp4, width=400 frac=0.5]
 
 
 - Ide:
-* Først i flat terreng etterpå ved bakken
+* Først i flatt terreng etterpå i bakken
 * Flere øvelser (frem og tilbake) som bygger opp på hverandre
 * Fokus på jevnt beinarbeid og stabil overkropp
 * Begge sider som hengsider, lav frekvens først, varier frekvens etterpå
