@@ -51,32 +51,32 @@ Trening i _tre grupper_ . Bytt grupper etter 15'.
 
 === Øvelser: ===
 
-__B01:__Text
+__B01:__Stå på et bein og flytt tyngdepunkt fram og tilbake. 
 
 MOVIE: [img/Balanse_einfach.mp4, width=400 frac=0.5]
 
 ----------------
-__B02:__Text
+__B02:__Øvingen utføres på bakken. Hold overkroppen stabil. 
 
 MOVIE: [img/Ausfallbalanse.mp4, width=400 frac=0.5]
 
 ----------------
-__B03:__Text
+__B03:__Øvingen utføres på benk. Hold overkroppen stabil. 
 
 MOVIE: [img/balanse_bank.mp4, width=400 frac=0.5]
 
 ----------------
-__B04:__Text
+__B04:__Arma, overkropp og et bein på en linie. Som vannrett som mulig :-) 
 
 MOVIE: [img/stuperen.mp4, width=400 frac=0.5]
 
 ----------------
-__B05:__Text
+__B05:__Lange hopp og tydelig pause på et bein.
 
 MOVIE: [img/Einbeinhopp.mp4, width=400 frac=0.5]
 
 ----------------
-__B06:__Text
+__B06:__Øvingen utføres på benk. Prøv først med kort utfall. Tydelig pause mens du står opp på benken.
 
 MOVIE: [img/Bankausfall.mp4, width=400 frac=0.5]
 
@@ -88,42 +88,42 @@ MOVIE: [img/Bankausfall.mp4, width=400 frac=0.5]
 
 === Øvelser: ===
 
-__M01:__Text
+__M01:__Rolige bevegelser. Stabil overkropp.
 
 MOVIE: [img/utfall.mp4, width=400 frac=0.5]
 
 ----------------
-__M02:__Text
+__M02:__Roter annenhver arm opp mot taket, se mot hånden. 
 
 MOVIE: [img/Rotasjon.mp4, width=400 frac=0.5]
 
 ----------------
-__M03:__Text
+__M03:__Hold rund låret, strekk ut kneet og bøy rolig tilbake til utgangsstillingen.
 
 MOVIE: [img/hamstring.mp4, width=400 frac=0.5]
 
 ----------------
-__M04:__Text
+__M04:__Rotasjon på ryggen - hold skuldrene i gulvet.
 
 MOVIE: [img/Hofte1.mp4, width=400 frac=0.5]
 
 ----------------
-__M05:__Text
+__M05:__Rotasjon på magen - hold skuldrene i gulvet.
 
 MOVIE: [img/Hofte2.mp4, width=400 frac=0.5]
 
 ----------------
-__M06:__Text
+__M06:__Hofttøying - Hold ryggen strak, brystet frem og kneet på linie med hoften.
 
 MOVIE: [img/Hofte3.mp4, width=400 frac=0.5]
 
 ----------------
-__M07:__Text
+__M07:__Utfalltøying
 
 MOVIE: [img/Hofte4.mp4, width=400 frac=0.5]
 
 ----------------
-__M08:__Text
+__M08:__Hund - ha rette knær og svai i korsryggen under hele bevegelsen.
 
 MOVIE: [img/Hofte5.mp4, width=400 frac=0.5]
 
@@ -135,30 +135,30 @@ MOVIE: [img/Hofte5.mp4, width=400 frac=0.5]
 
 === Øvelser: ===
 
-__S01:__Blanke 1'
+__S01:__Planke 1' - el classico (det klarer vi uten bildet)
 
 ----------------
-__S02:__Bekkenkontroll
+__S02:__Bekkenkontroll - Ligg på ryggen med bøyde knær, 90 graders vinkel i hofter og knær gjennom hele øvelsen.
 
 MOVIE: [img/bekkenkontroll.mp4, width=400 frac=0.5]
 
 ----------------
-__S03:__Telemarkhopp
+__S03:__Telemarkhopp - hå kne over tå.
 
 MOVIE: [img/telemarkshopp.mp4, width=400 frac=0.5]
 
 ----------------
-__S04:__Push up
+__S04:__Push up - push armene helt ut. 
 
 MOVIE: [img/push_up_.mp4, width=400 frac=0.5]
 
 ----------------
-__S05:__Baklengsplanke
+__S05:__Omvendt planke med ankel bevegelse. Albuene under skuldrene, rett linje fra skulder til ankel, ankel fram og tilbake. 
 
 MOVIE: [img/baklengsplanke.mp4, width=400 frac=0.5]
 
 ----------------
-__S06:__Sideplanke 30'' + 30''
+__S06:__Sideplanke 30'' + 30'' - med stabil hofte. (det klarer vi uten bildet)
 
 
 
