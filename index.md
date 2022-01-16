@@ -20,4 +20,4 @@ title: INDEX
 
 # Basistrening
 
-- [Basistrening I](BasisTreningI)
+- [Basistrening I](BasisTrening1)
