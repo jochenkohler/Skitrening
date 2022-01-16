@@ -1,0 +1,23 @@
+Translating doconce text in BasisTrening1.do.txt to html
+*** warning: movie "img/Einbeinhopp.mp4" was not found
+    could not find any .ogg/.mp4/.webm version of this filename
+*** warning: movie "img/Bankausfall.mp4" was not found
+    could not find any .ogg/.mp4/.webm version of this filename
+*** warning: movie "img/Hofte1.mp4" was not found
+    could not find any .ogg/.mp4/.webm version of this filename
+*** warning: movie "img/Hofte2.mp4" was not found
+    could not find any .ogg/.mp4/.webm version of this filename
+*** warning: movie "img/Hofte3.mp4" was not found
+    could not find any .ogg/.mp4/.webm version of this filename
+*** warning: movie "img/Hofte4.mp4" was not found
+    could not find any .ogg/.mp4/.webm version of this filename
+*** warning: movie "img/Hofte5.mp4" was not found
+    could not find any .ogg/.mp4/.webm version of this filename
+
+...doconce translation: inline substitutions 35.1 s (accumulated time: 35.1)
+
+
+...doconce format used 36.3 s to translate the document (500 lines)
+
+A list of dependencies for HTML output is in .BasisTrening1_html_file_collection
+output in BasisTrening1.html
