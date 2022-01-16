@@ -27,7 +27,8 @@ __Fokus på Balanse, Stabilitet, Mobilitet:__
 * Balanse 15'
 * Mobilitet 15'
 * Stabilitet 15'
-* Stafett 15'
+* Stafett 7'
+* Ballspill/Avsluttning 8'
 
 
 <linebreak>
@@ -162,22 +163,16 @@ __S06:__Sideplanke 30'' + 30''
 
 
 
-
-
-
-
-
-
-
 ===== Stafett =====
 
 * Grupper med 3-4 utøver.
-* Fram og tilbake i hallen:
-2x
-- 1. Sprint
-- 2. Enbenshopp
-- 3. Sprint
+* Fram og tilbake i hallen,
+* 2x:
+  o Sprint
+  o Hopp på et ben
+  o Sprint
 
+===== Ballspill =====
 
 ===== Kilder =====
 

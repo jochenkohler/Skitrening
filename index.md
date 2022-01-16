@@ -16,3 +16,8 @@ title: INDEX
 # Klassik økter
 
 - Kommer
+
+
+# Basistrening
+
+- [Basistrening I](BasisTreningI)
