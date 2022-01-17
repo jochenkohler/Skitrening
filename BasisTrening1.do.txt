@@ -25,7 +25,7 @@ TOC: off
 __Fokus på Balanse, Stabilitet, Mobilitet:__
 * Oppvarming 10'
 * Balanse 15'
-* Bevegelse 15'
+* Mobilitet 15'
 * Stabilitet 15'
 * Stafett 7'
 * Ballspill/Avslutning 8'
