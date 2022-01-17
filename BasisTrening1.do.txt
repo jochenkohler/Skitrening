@@ -22,7 +22,7 @@ TOC: off
 * Oppmøte: kl. 18.50 Eberg Skole
 * Avslutning: kl. 20.00
 <linebreak>
-__Fokus på Balanse, Stabilitet, Bevegelse:__
+__Fokus på Balanse, Stabilitet, Mobilitet:__
 * Oppvarming 10'
 * Balanse 15'
 * Bevegelse 15'
@@ -41,7 +41,7 @@ __Fokus på Balanse, Stabilitet, Bevegelse:__
 * Drag gjennom hallen (løpe ABC) 5'
 
 
-======= Hoveddel Balanse, Stabilitet, Bevegelse  =======
+======= Hoveddel: Balanse, Stabilitet, Mobilitet  =======
 Trening i _tre grupper_ . Bytt grupper etter 15'.
 
 ===== Gruppe Balanse =====
@@ -81,7 +81,7 @@ __B06:__Øvelsen utføres på benk. Prøv først med kort utfall. Tydelig pause 
 MOVIE: [img/Bankausfall.mp4, width=400 frac=0.5]
 
 
-===== Gruppe Bevegelse =====
+===== Gruppe Mobilitet =====
 - Ide:
 * Flere øvelser med aktiv tøying på matte og/eller på bakken.
 * Øvelsene er nye for de fleste. En trener til veiledning.
